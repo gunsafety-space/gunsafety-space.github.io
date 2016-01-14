@@ -15,7 +15,7 @@ While I agree wholeheartedly that children should know to not handle firearms un
 
 The frustrating thing about gun accidents is that most of them can be avoided by knowing and practicing the following three simple safety rules.
 
-# Rule 1: Never point a gun at anything you don't want dead. 
+# Rule 1: NEVER point a gun at anything you don't want dead. 
 
 There are no exceptions to this rule and there is no excuse for failing to teach it to your children. In the above story, both the 13-year-old and the 10-year-old should have been taught that a gun is not a toy and that a gun should never be pointed at anything you don't want dead. (This includes looking down the barrel or pointing it at a friend and pretending to shoot them.)
 
