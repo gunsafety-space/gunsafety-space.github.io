@@ -13,7 +13,7 @@ Shortly after, 10-year-old Michael Tunnell was dead." (Omaha World-Herald, July 
 
 While I agree wholeheartedly that children should know to not handle firearms unsupervised (and some would say, never at all), I believe strongly that all children should be taught how to handle firearms safely. Children pick up a lot of false information from movies and television about the proper handling of firearms. They need to be taught how to safely hold a gun without killing themselves or anyone else.
 
-The frustrating thing about gun accidents is that they can be avoided. 
+The frustrating thing about gun accidents is that most of them can be avoided by knowing and practicing the following three simple safety rules.
 
 #Rule One of gun safety is to never point a gun at anything you don't want dead. 
 
