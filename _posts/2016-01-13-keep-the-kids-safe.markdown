@@ -17,7 +17,8 @@ The frustrating thing about gun accidents is that most of them can be avoided by
 
 # Rule 1: NEVER point a gun at anything you don't want dead. 
 
-![In the movie "Hansel and Gretel - Witch Hunters", Hansel and Gretel carelessly point their weapons at random people's faces]({{ site.url }}/post-images/how-not-to-carry-a-gun.jpg)
+![In the movie "Hansel and Gretel - Witch Hunters", Hansel and Gretel carelessly point their weapons at random people's faces]({{ site.url }}/post-images/how-not-to-carry-a-gun.jpg){: .size-image-to-post}
+*In the movie "Hansel and Gretel - Witch Hunters", Hansel and Gretel carelessly point their weapons at random people's faces*
 
 There are no exceptions to this rule and there is no excuse for failing to teach it to your children. In the above story, both the 13-year-old and the 10-year-old should have been taught that a gun is not a toy and that a gun should never be pointed at anything you don't want dead. (This includes looking down the barrel or pointing it at a friend and pretending to shoot them.)
 
