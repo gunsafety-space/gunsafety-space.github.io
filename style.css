@@ -17,21 +17,12 @@ body>header h4 {
 
 h1,h2,h3,h4 {
     width: 100%;
-    min-width: 840px;
 }
 
 hr {
     margin-left: 0;
     padding-left: 0;
 	width: 100%;
-	min-width: 840px;
-}
-
-pre {
-    background-color: #E8E8E8;
-    margin-left: 30px;
-    padding: 5px;
-    width: 80%;
 }
 
 code {
@@ -60,7 +51,6 @@ a:hover {
 }
 
 main {
-	width: 85%;
 	min-width: 200px;
 	display: block;
 }
@@ -159,10 +149,3 @@ section address {
 	}
 }
 
-h1,h2,h3 {
-	max-width: 100%;
-}
-
-/*
-	Comment
-*/
