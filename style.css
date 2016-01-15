@@ -68,9 +68,14 @@ main {
 }
 
 nav {
-	float: left;
 	width: 150px;
 	min-width: 150px;
+}
+
+@media (min-width: 700px){
+	nav {
+		float: left;
+	}
 }
 
 nav a,
