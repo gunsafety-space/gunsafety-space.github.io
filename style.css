@@ -60,9 +60,8 @@ a:hover {
 }
 
 main {
-
-	width: 75%;
-	min-width: 600px;
+	width: 85%;
+	min-width: 200px;
 	display: block;
 }
 
@@ -144,14 +143,9 @@ section address {
     margin-left: 80%;
 }
 
-.size-image-to-post {
-		width: 100%;
-}
-
 @media all and (min-width: 700px){
 	nav {
 		float: left;
-		background: yellow;
 	}
 	
 	main {
@@ -162,6 +156,9 @@ section address {
 @media not all and (min-width: 700px){
 	nav {
 		display: block;
-		background: lightgreen;
 	}
+}
+
+h1,h2,h3 {
+	max-width: 100%;
 }
