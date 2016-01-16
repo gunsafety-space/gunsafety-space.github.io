@@ -72,8 +72,8 @@ nav a:hover {
 }
 
 nav li {
-    margin-left: -25px;
     list-style: none;
+	display: inline;
 }
 
 footer {
