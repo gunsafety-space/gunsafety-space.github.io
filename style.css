@@ -6,13 +6,20 @@ body {
     padding-right: 50px;
 }
 
+a {
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
 body>header>a {
 	color: white;
 }
 
 body>header h2>a {
     color: white;
-    text-decoration: none;
 	font-size: 2em;
 }
 
@@ -66,16 +73,8 @@ nav {
 	margin-top: 125px;
 }
 
-nav a,
-nav a:visited,
-nav a:active {
+nav a {
     color: green;
-	text-decoration: none;
-}
-
-nav a:hover {
-    color: #696969;
-	text-decoration: underline;
 }
 
 nav li {
@@ -134,10 +133,6 @@ section address {
 
 #paginator {
     padding: 10px;
-}
-
-#paginator a {
-    text-decoration: none;
 }
 
 .more {
