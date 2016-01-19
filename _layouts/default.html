@@ -30,8 +30,6 @@
 			<ul>
                 <li><a href="{{site.baseurl}}/"><i class="icon-home"></i> Home</a></li>
                 <li><a href="{{site.baseurl}}/contact"><i class="icon-mail"></i> Contact</a></li>
-                <li><a href="{{site.baseurl}}/archive"><i class="icon-th"></i> Archive</a></li>
-                <li><a href="{{site.baseurl}}/feed.xml"><i class="icon-rss"></i> RSS Feed</a></li>
             </ul>
 			<hr />
         </nav>
@@ -44,8 +42,11 @@
 
         <footer>
             <hr />
-            <p>&copy; <time>2016</time> {{ site.author }}</p>
-        </footer>
+            <p>
+				&copy; <time>2016</time> {{ site.author }}</p>
+                <a href="{{site.baseurl}}/archive"><i class="icon-th"></i> Archive</a>
+                <a href="{{site.baseurl}}/feed.xml"><i class="icon-rss"></i> RSS Feed</a>
+			</footer>
 
 		<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 		<script>
