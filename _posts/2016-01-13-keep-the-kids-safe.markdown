@@ -28,7 +28,7 @@ Had the gun not been pointed in poor Michael's direction, the accidental dischar
 
 ## Rule 2: ALWAYS assume the gun is loaded. 
 
-There are also NO EXCEPTIONS to this rule. It does not matter if you have just verified the gun was not loaded, you must still assume that it is. There have been numerous gun accidents involving automatics with a single bullet in the chamber. In the story above, for example, the 13-year-old would have been much more careful with the gun, had he assumed that it was loaded.
+There are also NO EXCEPTIONS to this rule. It does not matter if you have just verified the gun was not loaded, you must still assume that it is. There have been numerous gun accidents that were thought to be unloaded but either had a single bullet in the chamber or a mistake was made. In the story above, for example, the 13-year-old should have been much more careful with a gun that he assumed was loaded.
 
 ## Rule 3: ALWAYS verify the gun is not loaded. 
 
