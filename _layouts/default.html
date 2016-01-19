@@ -3,7 +3,12 @@
 <html>
     <head>
         <meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
         <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/[version]/jquery.mobile-1.4.5.min.css" />
+			
         <link rel="stylesheet" href="{{site.baseurl}}/style.css" />
         <meta name="description" content="{{site.description}}"/>
         <meta name="author" content="{{site.author}}"/>
@@ -42,6 +47,19 @@
             <p>&copy; <time>2016</time> {{ site.author }}</p>
         </footer>
 
+		<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script>
+			$('section').attr('data-role','page');
+			$('article').attr('data-role','content');
+			$('header').attr('data-role','header');
+			$('nav').attr('data-role','navbar');
+			$('aside').addClass('ui-li-aside');
+			$('ul').not('nav > ul').not('.nolst').attr('data-role','listview').attr('data-inset','true');
+			$('ol').not('nav > ol').attr('data-role','listview').attr('data-inset','true');;
+			$('a').not('li > a').not('.nobtn').attr('data-role','button');
+			$('footer').attr('data-role','footer');
+		</script>
+		<script src="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
         <script src="{{site.baseurl}}/scripts.js"></script>
     </body>
 
