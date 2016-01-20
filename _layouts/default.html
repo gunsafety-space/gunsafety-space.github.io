@@ -49,7 +49,9 @@
 			</footer>
 
 		<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
+		<script src="{{site.baseurl}}/javascripts/detectmobilebrowsers.js"></script>
 		<script>
+		if (jquery.browser.mobile) {
 			$('section').attr('data-role','page');
 			$('article').attr('data-role','content');
 			$('header').attr('data-role','header');
@@ -59,9 +61,11 @@
 			$('ol').not('nav > ol').attr('data-role','listview').attr('data-inset','true');;
 			$('a').not('li > a').not('.nobtn').attr('data-role','button');
 			$('footer').attr('data-role','footer');
+			
+			$.getScript("//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js");
+		}
+		
+		$.getScript("{{site.baseurl}}/scripts.js");
 		</script>
-		<script src="//code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
-        <xscript src="{{site.baseurl}}/scripts.js"></xscript>
     </body>
-
 </html>
